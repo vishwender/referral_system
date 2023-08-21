@@ -6,7 +6,6 @@ Referral System in laravel.
 
 - [Project Description](#project-description)
 - [Usage](#usage)
-- [Features](#features)
 
 ## Project Description
 
