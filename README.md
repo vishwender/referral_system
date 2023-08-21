@@ -14,6 +14,8 @@ Laravel referral System.
 
 ## Usage
 Run migrations
+
+
 Admin: You will need to update the user table role_as column to 1, to make the user as admin.
 
 
